@@ -16,13 +16,12 @@
     "babel-plugin-transform-es2015-modules-simple-amd": "^0.3.0",
     "babel-preset-es2015-without-strict": "0.0.4",
     "babel-preset-stage-0": "^6.24.1",
-    "esri-wab-build": "^1.1.0",
-    "grunt": "^1.0.3",
+    "esri-wab-build": "^1.2.0",
+    "grunt": "^1.1.0",
     "grunt-babel": "^7.0.0",
     "grunt-contrib-clean": "^1.1.0",
     "grunt-contrib-copy": "^1.0.0",
     "grunt-contrib-watch": "^1.1.0",
-    "grunt-sass": "^2.1.0",
-    "grunt-sync": "^0.8.0"
+    "grunt-sync": "^0.8.2"
   }
 }
